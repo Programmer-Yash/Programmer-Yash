@@ -13,15 +13,15 @@
 ### 🚀 About Me
 
 - 🎓 Currently pursuing my B.Tech in Software Engineering at **GLA University, Mathura**
-- 💻 Passionate about backend development, databases, and building clean, efficient software
-- 🌱 Actively learning and improving my skills in Java, Python, and SQL
+- 💻 Passionate about Software development, databases, and building clean, efficient software
+- 🌱 Actively learning and improving my skills in Java, Python, Web Development
 - 🤝 Open to internship opportunities and collaborative projects
 - 📫 Reach me at **yashupadhyay204215@gmail.com**
 
 ### 🎯 Currently Learning / Goals
 
 - 📘 Deepening my knowledge of Data Structures & Algorithms
-- 🛠️ Building real-world projects to apply backend and database concepts
+- 🛠️ Building real-world projects to apply frontend, backend and database concepts
 - 🌐 Exploring web development fundamentals (HTML5, and beyond)
 - 🎯 Goal: Land a Software Engineering internship in 2026
 
