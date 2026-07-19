@@ -17,7 +17,3 @@ I am a 2nd year Software Engineering student.
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Yash&layout=compact&theme=radical" alt="Programmer-Yash's Top Languages"/>
-</p>
