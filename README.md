@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">👋 About Me:</h1>
 
-<!--
-**Programmer-Yash/Programmer-Yash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd year Software Engineering student.
 
-Here are some ideas to get you started:
+<h1 align="left">🌐 Socials:</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashupadhyay66)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashupadhyay204215@gmail.com)
+
+<h1 align="left">💻 Tech Stack:</h1>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<h1 align="left">📊 GitHub Stats:</h1>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-Yash&show_icons=true&theme=radical" alt="Programmer-Yash's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-Yash&theme=radical" alt="Programmer-Yash's Streak stats" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Yash&layout=compact&theme=radical" alt="Programmer-Yash's Top Languages"/>
+</p>
