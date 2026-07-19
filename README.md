@@ -17,10 +17,6 @@ I am a 2nd year Software Engineering student.
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-Yash&show_icons=true&theme=radical" alt="Programmer-Yash's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-Yash&theme=radical" alt="Programmer-Yash's Streak stats" height="180"/>
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Yash&layout=compact&theme=radical" alt="Programmer-Yash's Top Languages"/>
