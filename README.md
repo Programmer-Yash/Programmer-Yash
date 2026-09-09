@@ -48,7 +48,7 @@
 ### 📈 Contribution Graph
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Programmer-Yash&theme=react-dark" alt="Yash's Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Programmer-Yash&theme=react-dark&hide_border=true" alt="Yash's Contribution Graph" width="100%"/>
 </p>
 
 ---
