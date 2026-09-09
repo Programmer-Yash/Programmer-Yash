@@ -43,15 +43,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 📈 Contribution Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Programmer-Yash&theme=react-dark&hide_border=true" alt="Yash's Contribution Graph" width="100%"/>
-</p>
-
----
 
 <div align="center">
 
