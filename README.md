@@ -25,11 +25,4 @@
   </p>
 </div>
 ---
-### 💫 About Me
-```yaml
-name: Yash Upadhyay
-education: 2nd Year B.Tech in Software Engineering
-location: Mathura, Uttar Pradesh, India
-interests:
-  - Artificial Intelligence & Prompt Engineering
-  - Open Source Contribution
+
