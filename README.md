@@ -7,10 +7,6 @@
   <p align="center">
     📍 <b>Mathura, India</b> &nbsp;|&nbsp; 🚀 <b>Building, Learning & Exploring</b>
   </p>
-  <!-- Visitor Count -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yashupadhyay66&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </p>
   <!-- Social Links / Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/yashupadhyay66/" target="_blank">
@@ -24,5 +20,5 @@
     </a>
   </p>
 </div>
----
+
 
