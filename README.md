@@ -1,18 +1,4 @@
 
-No more older messages
-Conversation Log
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
