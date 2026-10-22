@@ -1,51 +1,49 @@
-<div align="center">
 
-# Hi there, I'm Yash Upadhyay 👋
+No more older messages
+Conversation Log
 
-### 2nd Year Software Engineering Student @ GLA University, Mathura
 
-![Profile Views](https://komarev.com/ghpvc/?username=Programmer-Yash&color=blueviolet&style=for-the-badge)
 
-</div>
 
----
 
-### 🚀 About Me
 
-- 🎓 Currently pursuing my B.Tech in Software Engineering at **GLA University, Mathura**
-- 💻 Passionate about Software development, databases, and building clean, efficient software
-- 🌱 Actively learning and improving my skills in Java, Python, Web Development
-- 🤝 Open to internship opportunities and collaborative projects
-- 📫 Reach me at **yashupadhyay204215@gmail.com**
 
-### 🎯 Currently Learning / Goals
 
-- 📘 Deepening my knowledge of Data Structures & Algorithms
-- 🛠️ Building real-world projects to apply frontend, backend and database concepts
-- 🌐 Exploring web development fundamentals (HTML5, and beyond)
-- 🎯 Goal: Land a Software Engineering internship in 2026
 
----
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashupadhyay66)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashupadhyay204215@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Programmer-Yash)
-
----
-
-### 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <div align="center">
-
-*Thanks for visiting my profile — feel free to connect!*
-
+  <!-- Typing SVG Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Yash+Upadhyay+%F0%F0%9F%91%8B;2nd+Year+Software+Engineering+Student;AI+%26+Open+Source+Enthusiast;Problem+Solver+%7C+DSA+Explorer" alt="Typing SVG" />
+  </a>
+  <p align="center">
+    📍 <b>Mathura, India</b> &nbsp;|&nbsp; 🚀 <b>Building, Learning & Exploring</b>
+  </p>
+  <!-- Visitor Count -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yashupadhyay66&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+  <!-- Social Links / Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/yashupadhyay66/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:yashupadhyay20415@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/yashupadhyay66" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
+---
+### 💫 About Me
+```yaml
+name: Yash Upadhyay
+education: 2nd Year B.Tech in Software Engineering
+location: Mathura, Uttar Pradesh, India
+interests:
+  - Artificial Intelligence & Prompt Engineering
+  - Open Source Contribution
